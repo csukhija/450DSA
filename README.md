@@ -57,7 +57,7 @@
 
 ## Credits 🙏🏻
 
-#### Curated list of question in [450dsa] is based on _[DSA Cracker Sheet]_ by [Love Babbar]
+#### Curated list of question based on _[DSA Cracker Sheet]_ 
 
 [here]: https://www.youtube.com/watch?v=4iFALQ1ACdA
 [450dsa]: https://450dsa.com/
